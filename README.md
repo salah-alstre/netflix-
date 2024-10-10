@@ -33,7 +33,7 @@ This is a project that simulates a Netflix-like platform, developed using React 
 
 
 ## Contact
-You can visit my CV to view the full details. If you have any questions or feedback, feel free to contact me via [email](mailto:error.salah59@gmail.com).
+You can check out the project for full details. If you have any questions or feedback, feel free to contact me via  [email](mailto:error.salah59@gmail.com).
 
 
 ## Contributing
