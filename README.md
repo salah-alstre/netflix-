@@ -1,11 +1,11 @@
 # Netflix-Like Platform
 
-This is a project that simulates a Netflix-like platform, developed using React with Vite. The goal of this project is to showcase my abilities in web development. It allows users to browse trailers of movies and shows rather than watching the full content. The project utilizes Firebase for the database.
+This is a project that simulates a Netflix-like platform, developed using React with Vite. The goal of this project is to showcase my abilities in web development. It allows users to browse trailers of movies and shows rather than watching the full content.
 
 ## Features
 - Browse a collection of movie and show trailers.
 - Interactive and user-friendly interface designed with React and Vite.
-
+- The project utilizes Firebase for the database.
 ## Screenshots
 ![CV Image](https://github.com/salah-alstre/netflix-/blob/main/src/assets/netflix.error.jpg)
 
