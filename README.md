@@ -38,4 +38,4 @@ You can visit my CV to view the full details. If you have any questions or feedb
 
 ## Contributing
 
-If you have suggestions for improving the CV or wish to contribute, please feel free to open an issue or submit a pull request on GitHub.
+If you have suggestions for improving the project or wish to contribute, please feel free to open an issue or submit a pull request on GitHub.
