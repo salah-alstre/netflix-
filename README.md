@@ -18,7 +18,7 @@ This is a project that simulates a Netflix-like platform, developed using React 
 
 2. Navigate to the project directory:
 
-       cd salahcv
+       cd netflix-
 
 3. Install dependencies:
 
