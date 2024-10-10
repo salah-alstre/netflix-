@@ -14,7 +14,7 @@ This is a project that simulates a Netflix-like platform, developed using React 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/salah-alstre/salahcv.git
+   https://github.com/salah-alstre/netflix-.git
 
 2. Navigate to the project directory:
 
