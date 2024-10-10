@@ -7,7 +7,7 @@ This is a project that simulates a Netflix-like platform, developed using React 
 - Interactive and user-friendly interface designed with React and Vite.
 
 ## Screenshots
-![CV Image](https://github.com/salah-alstre/salahcv/blob/main/public/cvsalah.png?raw=true)
+![CV Image]([https://github.com/salah-alstre/salahcv/blob/main/public/cvsalah.png?raw=true](https://github.com/salah-alstre/netflix-/blob/main/src/assets/netflix.error.jpg))
 
 
 ## How to Run the Project
