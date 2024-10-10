@@ -1,8 +1,12 @@
-# React + Vite
+# Netflix-Like Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project that simulates a Netflix-like platform, developed using React with Vite. The goal of this project is to showcase my abilities in web development. It allows users to browse trailers of movies and shows rather than watching the full content. The project utilizes Firebase for the database.
 
-Currently, two official plugins are available:
+## Features
+- Browse a collection of movie and show trailers.
+- Interactive and user-friendly interface designed with React and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run the Project
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/username/repository-name.git
