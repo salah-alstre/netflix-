@@ -32,7 +32,7 @@ const Navbar = () => {
             <li>TV Shows</li>
             <li>Movies</li>
             <li>New & Popular</li>
-            <li>My List</li>+
+            <li>My List</li>
             <li>Browse by Languages</li>
         </ul>
         
