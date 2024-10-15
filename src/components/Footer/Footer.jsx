@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import linkin_icon from '../../assets/linkin_icon.png';
+import linkin_icon from '../../assets/linkIn_icon.png';
 import twitter_icon from '../../assets/twitter_icon.png';
 import instagram_icon from '../../assets/instagram_icon.png';
 import github_icon from '../../assets/github_icon.png';
